@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I am a dedicated **Flutter Developer** with professional experience that began during my third year of university. I’m passionate about mobile development, continuously improving my technical skills, and working within well-structured, professional environments that value organization and efficiency.
+I am a dedicated **Flutter Developer** with professional experience that began during my third year of university. i like working within well-structured, professional environments that value organization and efficiency.
 
 ---
 
@@ -16,9 +16,10 @@ I am a dedicated **Flutter Developer** with professional experience that began d
 
 - 🇪🇬 **Techs Expert** – Egypt  
 - 🇩🇰 **Shopbox** – Copenhagen, Denmark  
-- 💻 **SISMATIX** - Egypt, Kuwit
+- 💻 **SISMATIX** – Egypt, Kuwait  
 
-I have contributed to real-world mobile applications, focusing on clean architecture, scalable solutions, and performance optimization.
+Throughout my experience, I have contributed to real-world mobile applications used by a many customers.
+I collaborated closely with business teams to understand business requirements, delivered technical solution that aligend with business
 
 ---
 
