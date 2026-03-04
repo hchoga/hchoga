@@ -71,6 +71,8 @@ I enjoy sharing knowledge and helping developers grow in their technical journey
 
 - LinkedIn: https://www.linkedin.com/in/mohamed-hesham-01808a17b/
 - Email: mohamed1.hesham22@gmail.com
+- Portfolio: https://drive.google.com/file/d/12cUaayA6Cjc8Ny220YBoerrxkhQcIj1h/view?usp=sharing
+- Phone: 01553593111
 
 ---
 
